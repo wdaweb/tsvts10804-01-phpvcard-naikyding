@@ -17,5 +17,5 @@ preview.php
 > ### Characteristics:
 > - If the picture is not uploaded
 >![](https://i.imgur.com/RY7kn1g.png)
-> - add photo function
+> - add photo function(on change)
 > ![](https://i.imgur.com/hhkeeII.png)
