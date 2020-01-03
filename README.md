@@ -1,5 +1,5 @@
 # [Welcom Vcard](http://nikedin.synology.me/php/vcard_v1/)
-> http://nikedin.synology.me/php/vcard_v1/
+> http://220.128.133.15/s1080417/01_PHP_vCard/
 
 ## INDEX FORM:
 index.php
